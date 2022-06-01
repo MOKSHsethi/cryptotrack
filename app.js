@@ -13,7 +13,9 @@ app.use(bodyParser.json());
 const corsOption = {
     credentials: true,
     origin: [
-        'http://localhost:3000'
+        'http://localhost:3000',
+        "https://coincap123.herokuapp.com",
+        "http://coincap123.herokuapp.com"
     ]
 }
 
