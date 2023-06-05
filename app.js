@@ -15,7 +15,8 @@ const corsOption = {
     origin: [
         'http://localhost:3000',
         "https://coincap123.herokuapp.com",
-        "http://coincap123.herokuapp.com"
+        "http://coincap123.herokuapp.com",
+        "https://cryptotrackfront-paj5i6pgc-mokshsethi.vercel.app"
     ]
 }
 
